@@ -1,0 +1,15 @@
+# Gradle
+.gradle
+.gradletasknamecache
+/.idea
+*.iml
+
+# OSX files
+.DS_Store
+
+# Ignore gradle files
+.gradle/
+/build
+
+# Local configuration file (sdk path, etc)
+/local.properties
